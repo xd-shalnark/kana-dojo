@@ -392,8 +392,10 @@
     "dont": "無言で食べ始める",
     "note": "感謝を示す慣習。",
     "id": 44,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": false,
+    "completedBy": "vasu-sachdeva",
+    "completedPR": 21622
   },
   {
     "situation": "食事後 3",
